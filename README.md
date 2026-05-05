@@ -16,7 +16,6 @@ Pointers
 Dynamic Memory Allocation (new)
 Arrays of Pointers
 Member Functions
-💻 Program Code C++
 
 ▶️ How to Run
 Save the file as main.cpp
@@ -29,17 +28,24 @@ Bash
 📷 Sample Output
 
 Enter the name of Person : Ali
+
 Enter the name of Person : Ahmed
+
 Enter the name of Person : Sara
+
 Enter the name of Person : Zain
-Enter the name of Person : Ayesha
+
+Enter the name of Person : Mateen
 
 The name of the person is : Ali
+
 The name of the person is : Ahmed
+
 The name of the person is : Sara
+
 The name of the person is : Zain
-The name of the person is : Ayesha
-⚠️ Note
+
+The name of the person is : Mateen
 
 📚 Author
 Muhammad Mateen
