@@ -1,0 +1,31 @@
+#include<iostream>
+using namespace std ; 
+class Person
+{
+	private:
+		char name[50] ; 
+	public:
+		void in()
+		{
+			cout << "Enter the name of Person : " ;
+			cin >> name ; 
+		}
+		void out()
+		{
+			cout << "The name of the person is : " <<name <<endl ;
+		}
+};
+int main()
+{
+	Person *ptr[5] ; //[5] 
+	int i ; 
+	for(i = 0 ; i < 5 ; i++)
+	{
+		ptr[i] = new Person ;
+		ptr[i]->in();
+	}
+	for(i= 0 ; i < 5 ; i++)
+	{
+		ptr[i]->out();
+	}
+}
