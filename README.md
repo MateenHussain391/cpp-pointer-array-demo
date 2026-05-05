@@ -28,6 +28,7 @@ g++ main.cpp -o program
 Run the program:
 Bash
 ./program
+
 📷 Sample Output
 
 Enter the name of Person : Ali
