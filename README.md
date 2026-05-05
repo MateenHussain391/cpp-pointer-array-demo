@@ -1,11 +1,15 @@
 # cpp-pointer-array-demo
 This is a simple C++ program that demonstrates the use of classes, pointers, and dynamic memory allocation. The program allows the user to input and display the names of multiple persons using an array of object pointers.
+
+
 📌 Features
 Create a Person class
 Take input for multiple persons
 Store objects dynamically using pointers
 Display stored data
 Demonstrates basic Object-Oriented Programming (OOP) concepts
+
+
 🧠 Concepts Used
 Classes and Objects
 Pointers
