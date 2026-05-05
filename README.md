@@ -3,6 +3,7 @@ This is a simple C++ program that demonstrates the use of classes, pointers, and
 
 
 📌 Features
+
 Create a Person class
 Take input for multiple persons
 Store objects dynamically using pointers
@@ -11,6 +12,7 @@ Demonstrates basic Object-Oriented Programming (OOP) concepts
 
 
 🧠 Concepts Used
+
 Classes and Objects
 Pointers
 Dynamic Memory Allocation (new)
